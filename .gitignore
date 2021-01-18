@@ -1,0 +1,5 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#Mac genereated metadata file
+.DS_Store
